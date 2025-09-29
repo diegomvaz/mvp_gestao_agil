@@ -8,7 +8,7 @@ Repositório da entrega do **MVP** da disciplina **Gestão Ágil de Projetos e P
 
 ## 📖 Descrição do Projeto
 
-O **CarCollectors** é um aplicativo em formato de rede social voltado para **colecionadores de carros**.  
+O **CarCollection** é um aplicativo em formato de rede social voltado para **colecionadores de carros**.  
 
 Os usuários poderão:  
 - Criar uma conta e autenticar-se no sistema;  
@@ -59,7 +59,7 @@ Entregar uma primeira versão funcional mínima que permita ao usuário:
 
 ## 🎥 Apresentação
 
-A apresentação da entrega pode ser acessada no via link em `video-url.txt`.  
+A apresentação da entrega pode ser acessada via link em `video-url.txt`.  
 
 ---
 
